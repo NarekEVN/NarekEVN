@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NarekEVN
 - 👀 I’m interested in programming and web-development espacially 
-- 🌱 I’m currently learning Nest.js, Vue.js
 - 📫 How to reach me narekvoskanyan3@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=NarekEVN&color=green)
